@@ -26,9 +26,11 @@
 
 }
 .header .logo {
-    width: 24px;
-    height: 24px;
-    background-color: antiquewhite;
+    width: 32px;
+    height: 32px;
+    background-image: url("../img/Earth-icon.png");
+    background-size:contain;
+
     align-self:center;
 }
 
